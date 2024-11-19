@@ -1,0 +1,20 @@
+{
+    "rutas" : {
+        "mascota_datos" : "mascota\\data\\mascota.json",
+        "gifs_datos" : "mascota\\data\\gifs.json"
+    },
+    "limites" : {
+        "nivel_critico" : 20,
+        "min_reduccion" : 1,
+        "max_reduccion" : 20,
+        "min_adicion" : 15,
+        "max_adicion" : 50
+    },
+    "roles" : {
+        "rol_alerta" : "Papis"
+    },
+    "channels" : {
+        "pet_id" : 1302037809045049374
+    }
+    
+}

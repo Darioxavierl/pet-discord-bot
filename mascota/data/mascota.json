@@ -1,11 +1,11 @@
 {
     "datos": {
-        "nombre": "Neki"
+        "nombre": "Neko"
     },
     "estadisticas": {
-        "hambre": 94,
-        "sed": 72,
-        "higiene": 16,
-        "felicidad": 10
+        "hambre": 41,
+        "sed": 34,
+        "higiene": 23,
+        "felicidad": 38
     }
 }
