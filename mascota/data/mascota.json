@@ -1,0 +1,11 @@
+{
+    "datos": {
+        "nombre": "Neki"
+    },
+    "estadisticas": {
+        "hambre": 94,
+        "sed": 72,
+        "higiene": 16,
+        "felicidad": 10
+    }
+}

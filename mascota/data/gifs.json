@@ -1,0 +1,46 @@
+{
+    "error" : {
+        "1" : "https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" 
+    },
+    "alimentar" : {
+        "1" : "https://media1.tenor.com/m/Tw0L98b7QvsAAAAd/popcorn-pop-corn.gif",
+        "2" : "https://media.tenor.com/yGPc9FcH7voAAAAi/burger-cat.gif",
+        "3" : "https://media.tenor.com/AQ44XwNgKcIAAAAi/gossip.gif"
+    },
+    "lleno" : {
+        "1" : "https://media.tenor.com/3h6aJe0ZgcEAAAAi/full-big-stomach.gif",
+        "2" : "https://media.tenor.com/_xEHUQnorI8AAAAi/peach-goma.gif",
+        "3" : "https://media1.tenor.com/m/1EfhWxy2dvQAAAAd/mochi-cat.gif"
+    },
+    "beber" : {
+        "1" : "https://media.tenor.com/aiyNkzmKPwEAAAAi/meong_cat.gif",
+        "2" : "https://media1.tenor.com/m/YetgDJ16BywAAAAd/boba-cat.gif",
+        "3" : "https://media.tenor.com/ps0rUFKIjTIAAAAi/i%27m-baby-i%27m-just-a-baby.gif"
+    },
+    "bano" : {
+        "1" : "https://media1.tenor.com/m/5-hDCu8yMtUAAAAd/kittens-cat.gif",
+        "2" : "https://media1.tenor.com/m/nlCp-sK1oRcAAAAd/ami-fat-cat-fgcat.gif",
+        "3" : "https://media1.tenor.com/m/XiH8iOWdOc8AAAAd/peach-goma-in-the-tub.gif"
+    },
+    "limpio" : {
+        "1" : "https://media.tenor.com/sQeEv5-3hkgAAAAi/lick-nina-minina.gif",
+        "2" : "https://media.tenor.com/OpB4Q7ZuBhsAAAAi/mochi-and-mochi-peach-cat.gif",
+        "3" : "https://media.tenor.com/W12gfez78eMAAAAi/peach-cat.gif"
+    },
+    "jugar" : {
+        "1" : "https://media.tenor.com/5qGkUGnGiY8AAAAi/ginger-cat-cat.gif",
+        "2" : "https://media1.tenor.com/m/CphtLU7B4uUAAAAd/haha-playing.gif",
+        "3" : "https://media.tenor.com/WBJVPXhl0gMAAAAi/duck-cute.gif"
+    },
+    "divertido" : {
+        "1" : "https://media.tenor.com/7oHXA0Li5BcAAAAi/cutie-cat-well.gif",
+        "2" : "https://media.tenor.com/515TonHSzgYAAAAi/ami-fat-cat-ok.gif",
+        "3" : "https://media.tenor.com/t19OWaRdv7oAAAAi/cute-head-pat.gif"
+    },
+    "triste" : {
+        "1" : "https://media1.tenor.com/m/6amRgxEWI28AAAAd/peach-peach-cat.gif",
+        "2" : "https://media.tenor.com/eX1d6fukpNQAAAAi/begging-cat-cat.gif",
+        "3" : "https://media.tenor.com/awM4-xzHUbUAAAAi/black-cat.gif"
+    }
+
+}
