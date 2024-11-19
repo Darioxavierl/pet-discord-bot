@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  discord-bot:
+    build: .
+    container_name: discord-bot
+    env_file:
+      - .env  # Especifica que Docker debe cargar el archivo .env
+    volumes:
+      - .:/app  # Monta el directorio actual en el contenedor para facilitar el desarrollo
+    restart: always  # Asegura que el bot se reinicie si se cae
